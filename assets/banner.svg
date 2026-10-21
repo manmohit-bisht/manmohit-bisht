@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Manmohit Bisht - CSE student exploring AI/ML, deep learning and federated learning">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fce7f3"/><stop offset="0.55" stop-color="#eef2ff"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#db2777"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#db2777"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-width="1.2" opacity="0.8"/></pattern>
+<clipPath id="r"><rect width="1200" height="320" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<circle cx="120" cy="310" r="120" fill="#f9a8d4" opacity="0.35"><animate attributeName="cy" values="310;290;310" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1180" cy="20" r="130" fill="#93c5fd" opacity="0.35"><animate attributeName="cy" values="20;45;20" dur="8s" repeatCount="indefinite"/></circle>
+<line x1="850" y1="95" x2="980" y2="70" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="850" y1="95" x2="980" y2="135" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="850" y1="95" x2="980" y2="200" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="850" y1="95" x2="980" y2="265" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="850" y1="165" x2="980" y2="70" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="850" y1="165" x2="980" y2="135" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="850" y1="165" x2="980" y2="200" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="850" y1="165" x2="980" y2="265" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="850" y1="235" x2="980" y2="70" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="850" y1="235" x2="980" y2="135" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="850" y1="235" x2="980" y2="200" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="850" y1="235" x2="980" y2="265" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="980" y1="70" x2="1110" y2="115" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="980" y1="70" x2="1110" y2="215" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="980" y1="135" x2="1110" y2="115" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="980" y1="135" x2="1110" y2="215" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="980" y1="200" x2="1110" y2="115" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<line x1="980" y1="200" x2="1110" y2="215" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="3.2s" repeatCount="indefinite"/></line>
+<line x1="980" y1="265" x2="1110" y2="115" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.0s" repeatCount="indefinite"/></line>
+<line x1="980" y1="265" x2="1110" y2="215" stroke="url(#ln)" stroke-width="1.6" stroke-dasharray="4 6" opacity="0.55"><animate attributeName="stroke-dashoffset" from="20" to="0" dur="2.6s" repeatCount="indefinite"/></line>
+<circle cx="850" cy="95" r="9" fill="#ffffff" stroke="#db2777" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle cx="850" cy="165" r="9" fill="#ffffff" stroke="#db2777" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="0.35s" repeatCount="indefinite"/></circle>
+<circle cx="850" cy="235" r="9" fill="#ffffff" stroke="#db2777" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="0.70s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="70" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="135" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="1.40s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="200" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="1.75s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="265" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="2.10s" repeatCount="indefinite"/></circle>
+<circle cx="1110" cy="115" r="9" fill="#ffffff" stroke="#db2777" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="2.45s" repeatCount="indefinite"/></circle>
+<circle cx="1110" cy="215" r="9" fill="#ffffff" stroke="#db2777" stroke-width="3"><animate attributeName="r" values="8;12;8" dur="3s" begin="2.80s" repeatCount="indefinite"/></circle>
+<text x="70" y="132" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#db2777" letter-spacing="3">HELLO, I'M</text>
+<text x="68" y="205" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" fill="url(#tx)">Manmohit Bisht</text>
+<rect x="70" y="226" width="140" height="6" rx="3" fill="url(#tx)"><animate attributeName="width" values="60;220;60" dur="5s" repeatCount="indefinite"/></rect>
+<text x="70" y="270" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#475569">CSE Student  ·  AI/ML  ·  Deep Learning  ·  Federated Learning</text>
+</g>
+</svg>

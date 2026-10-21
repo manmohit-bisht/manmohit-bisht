@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Thanks for visiting">
+<defs>
+<linearGradient id="f1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f9a8d4"/><stop offset="1" stop-color="#93c5fd"/></linearGradient>
+<linearGradient id="f2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#db2777"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+</defs>
+<path d="M0 60 C200 20 400 100 600 60 S1000 20 1200 60 V140 H0Z" fill="url(#f1)" opacity="0.55"><animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 60 C200 20 400 100 600 60 S1000 20 1200 60 V140 H0Z;M0 60 C200 100 400 20 600 60 S1000 100 1200 60 V140 H0Z;M0 60 C200 20 400 100 600 60 S1000 20 1200 60 V140 H0Z"/></path>
+<path d="M0 85 C250 55 450 115 700 85 S1050 60 1200 85 V140 H0Z" fill="url(#f2)" opacity="0.85"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 85 C250 55 450 115 700 85 S1050 60 1200 85 V140 H0Z;M0 85 C250 115 450 55 700 85 S1050 110 1200 85 V140 H0Z;M0 85 C250 55 450 115 700 85 S1050 60 1200 85 V140 H0Z"/></path>
+<text x="600" y="118" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff">Thanks for stopping by!</text>
+</svg>
