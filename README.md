@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Manmohit Bisht - CSE student exploring AI/ML, deep learning and federated learning" width="100%"/>
 
 <a href="https://github.com/manmohit-bisht">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=DB2777&center=true&vCenter=true&width=640&height=48&lines=CSE+student+exploring+AI+%2F+ML;Curious+about+deep+learning;Interested+in+federated+learning;Into+data+structures+%26+algorithms" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=DB2777&center=true&vCenter=true&width=640&height=48&lines=CSE+student+exploring+AI+%2F+ML;Curious+AI/ML;Interested+in+Federated+Learning;Into+data+structures+%26+algorithms" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -19,10 +19,11 @@
 
 ```python
 class Manmohit:
-    role      = "CSE Student"
-    exploring = ["AI/ML", "Deep Learning", "Federated Learning"]
-    also_into = ["Data Structures & Algorithms"]
-    toolkit   = ["Python", "C++", "PyTorch", "scikit-learn"]
+    role       = "CSE Student"
+    exploring  = ["AI/ML", "Deep Learning", "Federated Learning"]
+    also_into  = ["Data Structures & Algorithms"]
+    tech_stack = ["Python", "C++", "PyTorch", "scikit-learn"]
+    tools      = ["Git", "GitHub", "Linux", "VS Code"]
 
     def say_hi(self):
         return "Always happy to connect and talk AI/ML!"
@@ -51,21 +52,21 @@ class Manmohit:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manmohit-bisht&show_icons=true&title_color=DB2777&text_color=334155&icon_color=2563EB&bg_color=FFFFFF&border_color=FBCFE8" alt="GitHub stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=manmohit-bisht&background=FFFFFF&border=FBCFE8&stroke=FBCFE8&ring=DB2777&fire=2563EB&currStreakNum=334155&sideNums=334155&currStreakLabel=DB2777&sideLabels=2563EB&dates=64748B" alt="GitHub streak"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manmohit-bisht&show_icons=true&title_color=C45D78&text_color=526579&icon_color=789BC4&bg_color=EDEFF5&border_color=D9DDEB" alt="GitHub stats"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=manmohit-bisht&background=EDEFF5&border=D9DDEB&stroke=D9DDEB&ring=C45D78&fire=789BC4&currStreakNum=526579&sideNums=526579&currStreakLabel=C45D78&sideLabels=789BC4&dates=8996A8" alt="GitHub streak"/>
 
 <br/>
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohit-bisht&layout=compact&langs_count=8&title_color=DB2777&text_color=334155&icon_color=2563EB&bg_color=FFFFFF&border_color=FBCFE8" alt="Top languages"/>
 
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohit-bisht&layout=compact&langs_count=8&title_color=C45D78&text_color=526579&icon_color=789BC4&bg_color=EDEFF5&border_color=D9DDEB" alt="Top languages"/>
 
 <br/>
 
-<img src="https://ghchart.rshah.org/DB2777/manmohit-bisht" alt="Contribution calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/789BC4/manmohit-bisht"
+     alt="Contribution calendar" width="100%"/>
 
 <!--
-Optional "last 31 days" line graph. The public host is often down, so it is parked here.
-If you deploy your own copy (Vercel, see its README), swap YOUR-DOMAIN and uncomment:
-
 <img src="https://YOUR-DOMAIN.vercel.app/graph?username=manmohit-bisht&bg_color=FFFFFF&color=DB2777&line=2563EB&point=DB2777&area=true&area_color=BFDBFE&title_color=DB2777&hide_border=true&radius=10" alt="Contribution graph" width="100%"/>
 -->
 
