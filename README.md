@@ -54,8 +54,8 @@ class Manmohit:
 
 
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manmohit-bisht&show_icons=true&title_color=C45D78&text_color=526579&icon_color=789BC4&bg_color=EDEFF5&border_color=D9DDEB" alt="GitHub stats"/>
-<img height="180" src="https://streak-stats.demolab.com/?user=manmohit-bisht&background=EDEFF5&border=D9DDEB&stroke=D9DDEB&ring=C45D78&fire=789BC4&currStreakNum=526579&sideNums=526579&currStreakLabel=C45D78&sideLabels=789BC4&dates=8996A8" alt="GitHub streak"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=manmohit-bisht&show_icons=true&title_color=C45D78&text_color=526579&icon_color=789BC4&bg_color=EDEFF5&border_color=D9DDEB" alt="GitHub stats"/>
+<img height="150" src="https://streak-stats.demolab.com/?user=manmohit-bisht&background=EDEFF5&border=D9DDEB&stroke=D9DDEB&ring=C45D78&fire=789BC4&currStreakNum=526579&sideNums=526579&currStreakLabel=C45D78&sideLabels=789BC4&dates=8996A8" alt="GitHub streak"/>
 
 <br/>
 
