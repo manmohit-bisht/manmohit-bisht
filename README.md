@@ -66,10 +66,6 @@ class Manmohit:
 <img src="https://ghchart.rshah.org/789BC4/manmohit-bisht"
      alt="Contribution calendar" width="100%"/>
 
-<!--
-<img src="https://YOUR-DOMAIN.vercel.app/graph?username=manmohit-bisht&bg_color=FFFFFF&color=DB2777&line=2563EB&point=DB2777&area=true&area_color=BFDBFE&title_color=DB2777&hide_border=true&radius=10" alt="Contribution graph" width="100%"/>
--->
-
 </div>
 
 <img src="assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
