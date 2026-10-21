@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/manmohit-bisht/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:manmohit.454@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/manmohit-bisht/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manmohit.454@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Say_hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
