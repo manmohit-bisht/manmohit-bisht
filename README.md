@@ -67,9 +67,17 @@ class Manmohit:
 
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmohit-bisht&layout=compact&langs_count=8&title_color=E34B9A&text_color=D2D5F2&bg_color=25263D&border_color=484967" alt="Top languages"/>
 
+</div>
+
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/668CFF/manmohit-bisht" alt="Contribution calendar" width="100%"/>
+## 🌌 Contribution Universe
+
+<div align="center">
+
+<a href="https://github.com/manmohit-bisht">
+<img src="https://www.gitskins.com/api/section/heatmap?username=manmohit-bisht&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157079124%3Fu%3D540efc60edf05ec87674cac368b6128a6346fb12%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="80%" alt="manmohit-bisht animated contribution jet"/>
+</a>
 
 </div>
 
