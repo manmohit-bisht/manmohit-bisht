@@ -72,7 +72,10 @@ class Manmohit:
 <br/><br/>
 
 ## 🌌 Contribution Universe
-# Shoots is contribution in 5+
+``` python
+if (contribution >= 5): #🚀 Spacecraft fires a bullet whenever daily contributions reach 5 or more.
+    space_craft.shoot()
+```
 <div align="center">
 
 <a href="https://github.com/manmohit-bisht">
